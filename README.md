@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotaro-lab457" />
 </a>
-<a href="https://github.com/kotaro-lab457/kotaro-lab457/">
-    <img src="https://komarev.com/ghpvc/?username=kotaro-lab457" alt="kotaro-lab457" />
-</a>
+
