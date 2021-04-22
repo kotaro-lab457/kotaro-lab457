@@ -20,3 +20,4 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotaro-lab457" />
 </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kotaro-lab457)](https://github.com/kotaro-lab457/kotaro-lab457)
